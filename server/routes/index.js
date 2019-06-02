@@ -5,5 +5,10 @@ const router = express.Router();
 router.get('/', function(req, res) {
   res.render('index');
 });
+/* POST upload */
+
+router.post('/upload', function(req, res, next) {
+  res.send('respond with a resource');
+});
 
 module.exports = router;

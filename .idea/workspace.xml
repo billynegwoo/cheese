@@ -2,22 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b66e376e-2a42-435c-88bd-ae6c95cc7862" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parallel.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/Webcam.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/Qrcode.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/css/app.e2713bb0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/img/logo.82b9c7a5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/js/app.68c228fc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/js/app.68c228fc.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/js/chunk-vendors.7a32d01e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/public/js/chunk-vendors.7a32d01e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/037c0503c5f894c6c389.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/03aab7fb0b9ccd1bc421.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/0d6cce95697404d277c8.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/0e07a7dad6e8f8fd61c1.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/10aeb6c1a50ed87debee.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/18bda2242029ec7baf3f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/34d3773742847981407f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/435a323cb6ffafafdaaf.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/576fe61de9ae211ee92e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/58b1e6f5f1ed55b57742.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/5bb89dce65f8d6cd1c87.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/6b2b0106a99d9b4dbce7.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/740788f93350dfa2d746.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/7f5ce8e8535526ddac49.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/83e90dd51af0f816882e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/83fc01d47f79ee831c00.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/8cd869bdd2b01c7910bc.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/90ac3ee2bb125f629936.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/926bc4975c27ffd1baa7.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/aac87db5df1b51ec9476.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/af7c8bb75adfee0d85ca.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.0e07a7dad6e8f8fd61c1.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.435a323cb6ffafafdaaf.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.58b1e6f5f1ed55b57742.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.6b2b0106a99d9b4dbce7.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.740788f93350dfa2d746.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.7f5ce8e8535526ddac49.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.83e90dd51af0f816882e.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.8cd869bdd2b01c7910bc.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.90ac3ee2bb125f629936.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.926bc4975c27ffd1baa7.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.aac87db5df1b51ec9476.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.ba1119c9e19f7c5c96c8.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.ba1b63981320e89b3912.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.bcab4dd979329ede2334.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.be7f7b976da54dfc3396.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.cf5d1dacb9f03abe3638.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.e0e04032d934c0e02ab6.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/app.f95f6b3fb9e60c85a358.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/ba1119c9e19f7c5c96c8.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/ba1b63981320e89b3912.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/bcab4dd979329ede2334.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/be7f7b976da54dfc3396.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/cf5d1dacb9f03abe3638.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/e0239246c2b4b584c315.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/e0e04032d934c0e02ab6.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/public/f95f6b3fb9e60c85a358.hot-update.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,17 +69,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+            <state relative-caret-position="2337">
+              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="287">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -68,26 +104,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/components/Qrcode.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="246">
+              <caret line="6" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/babel.config.js">
+        <entry file="file://$PROJECT_DIR$/server/public/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/app.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/components/Webcam.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-627">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -135,9 +173,10 @@
         <option value="$PROJECT_DIR$/server/package.json" />
         <option value="$PROJECT_DIR$/babel.config.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app/src/components/Qrcode.vue" />
         <option value="$PROJECT_DIR$/app/src/App.vue" />
+        <option value="$PROJECT_DIR$/app/src/components/Qrcode.vue" />
         <option value="$PROJECT_DIR$/app/src/main.js" />
+        <option value="$PROJECT_DIR$/app/src/components/Webcam.vue" />
       </list>
     </option>
   </component>
@@ -160,24 +199,6 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,23 +313,24 @@
       <workItem from="1559310421037" duration="1334000" />
       <workItem from="1559311851676" duration="910000" />
       <workItem from="1559478568942" duration="350000" />
-      <workItem from="1559480268624" duration="2776000" />
+      <workItem from="1559480268624" duration="4492000" />
+      <workItem from="1559490318243" duration="643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9897000" />
+    <option name="totallyTimeSpent" value="12256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="3840" height="2125" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32951444" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32951444" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32951444" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,7 +340,7 @@
       <window_info anchor="bottom" id="GraphQL" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.5646481" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.56519365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -375,6 +397,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2337">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parallel.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/components/Qrcode.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="6" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -396,37 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parallel.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/app/src/components/Webcam.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/components/Qrcode.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-627">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
