@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node server/bin/www",
+    "start": "npm run build & node server/bin/www",
     "build": "vue-cli-service build app/src/main.js --dest server/public",
     "start:dev": "nodemon server/bin/www",
     "build:dev": "vue-cli-service build app/src/main.js --dest server/public --watch",
