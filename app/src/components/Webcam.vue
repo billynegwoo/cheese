@@ -16,6 +16,7 @@
 </template>
 
 <script>
+    const axios = require('axios');
     export default {
         name: 'app',
         data() {
@@ -33,10 +34,14 @@
             }
         },
         methods: {
-            capture() {
+            async capture() {
                 this.canvas = this.$refs.canvas;
                 this.canvas.getContext("2d").drawImage(this.video, 0, 0, 640, 480);
-                this.captures.push(this.canvas.toDataURL("image/png"));
+                const img = this.canvas.toDataURL("image/png");
+                this.captures.push(img);
+                axios
+                    .post('http://localhost:3000/upload', {snap: img})
+                    .then(response => console.log(response))
             }
         }
     }
